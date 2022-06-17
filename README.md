@@ -13,8 +13,8 @@ For projects with NodeJS. Tools are used to have readable and standard code usin
 
 ### Plugins
 
-- ESLint
-- Prettier - Code formatter
+- [EsLint](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 # Commads
 
