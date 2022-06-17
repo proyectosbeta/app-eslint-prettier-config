@@ -7,6 +7,15 @@ For projects with NodeJS. Tools are used to have readable and standard code usin
 - Node JS 14.19.xx
 - NMP 8.3.xx
 
+# Utils
+
+## Visual Code
+
+### Plugins
+
+- ESLint
+- Prettier - Code formatter
+
 # Commads
 
 ## Prettier check
