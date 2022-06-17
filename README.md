@@ -2,7 +2,7 @@
 
 For projects with NodeJS. Tools are used to have readable and standard code using the airbnb style guide.
 
-# Tecnologie
+# Technologies
 
 - Node JS 14.19.xx
 - NMP 8.3.xx
